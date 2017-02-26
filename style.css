@@ -1,0 +1,45 @@
+div {
+	background: red;
+	height: 60px;
+}
+
+div:hover {
+	background: gray;
+}
+
+.main {
+	background: blue;
+	height: 600px;
+	margin-left: 125px;
+	margin-right: 125px;
+	margin-top: 0px;
+}
+
+.footer {
+	background: green;
+}
+
+.head {
+	margin: auto;
+	position: relative;
+	top: 15px;
+	background: black;
+	height: 45%;
+	width: 75%;
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+	margin: 0;
+}
+
+li {
+	background: yellow;
+	list-style: none;
+	height: 50px;
+	width: 50px;
+	margin-left: 15px;
+	margin-top: 15px;
+
+}
